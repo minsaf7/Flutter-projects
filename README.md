@@ -46,11 +46,11 @@
   
   
    <tr>
-     <td> Netflix UI
+     <td> Travel blog
      </td>
     <td>
       <p>
-        <a href="">CLICK HERE</a>
+        <a href="https://github.com/minsaf7/Flutter-blog-with-Firebase">CLICK HERE</a>
       </p>
   </tr>
  
