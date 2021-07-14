@@ -44,6 +44,18 @@
       </p>
   </tr>
   
+  <tr>
+     <td> News app with NewsOrg API
+     </td>
+    <td>
+      <p>
+        <a href="https://github.com/minsaf7/Flutter-news-app">CLICK HERE</a>
+      </p>
+  </tr>
+  
+  
+  
+  
   
    <tr>
      <td> Travel blog
