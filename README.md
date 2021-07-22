@@ -29,10 +29,18 @@
       <p>
         <a href="https://github.com/minsaf7/Flutter-chat-app-with-Firebase">CLICK HERE</a>
       </p>
-    
-    
-    
-   
+
+  </tr>
+    </tr>
+ 
+   <tr>
+     <td> Flutter wallpaper app with Pexels API
+     </td>
+    <td>
+      <p>
+        <a href="https://github.com/minsaf7/Flutter-wallpaper-app">CLICK HERE</a>
+      </p>
+  
   </tr>
   
    <tr>
